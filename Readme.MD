@@ -2,7 +2,7 @@
 > This basically creates an account but it has no functions and it's useless.
 
 # I'm working on this
-- Mongo Database Support if you need it (Download here)[https://fastdl.mongodb.org/windows/mongodb-windows-x86_64-7.0.7-signed.msi]
+- Mongo Database Support if you need it Download here[https://fastdl.mongodb.org/windows/mongodb-windows-x86_64-7.0.7-signed.msi]
 - Actual legit proper Account System (i need to setup mongo or sql for this but wtv to easy)
 - Making this code look clean asf and not messy.
 
